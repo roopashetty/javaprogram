@@ -1,0 +1,5 @@
+class BasicProgram{
+public static voi main(String args[]){
+system.out.println("Hello World");
+}
+}
